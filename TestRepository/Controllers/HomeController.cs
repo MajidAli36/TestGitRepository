@@ -26,5 +26,10 @@ namespace TestRepository.Controllers
 
             return View();
         }
+        public ActionResult Test()
+        {
+            return View();
+
+        }
     }
 }
