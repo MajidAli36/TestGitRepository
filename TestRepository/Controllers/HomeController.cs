@@ -35,5 +35,9 @@ namespace TestRepository.Controllers
         {
             return View();
         }
+        public ActionResult Branch1()
+        {
+            return View();
+        }
     }
 }
