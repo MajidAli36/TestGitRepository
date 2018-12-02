@@ -31,5 +31,9 @@ namespace TestRepository.Controllers
             return View();
 
         }
+        public ActionResult PullTest()
+        {
+            return View();
+        }
     }
 }
